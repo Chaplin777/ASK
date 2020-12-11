@@ -1,2 +1,0 @@
-Feature: mine
-  Scenario: test
